@@ -25,7 +25,7 @@ A heuristic, ML style approach to path discovery.
 * **Methodology:** A swarm of 60+ particles explores lateral offsets across 20+ track sectors.
 * **Stochastic Search:** Finds global minima in non-convex cost landscapes where gradient-based solvers might struggle.
 * **Visualization:** Shows the real-time learning process as the swarm converges on the optimal apex.
-<video src="./assets/pso_optimization_demo.mp4" width="100%" controls autoplay loop muted></video>
+![PSO Convergence Animation](./assets/pso_opt.gif)
 ## 🛠️ Installation & Usage
 1. Clone the repo:
    ```bash
