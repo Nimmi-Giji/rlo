@@ -1,7 +1,7 @@
 # Racing Line Optimization: NLP vs. Heuristic Swarm Intelligence
 
 An engineering project focused on computing optimal autonomous racing trajectories by minimizing lap time under vehicle dynamics and track boundary constraints.
-### 📄 Technical Report
+### Technical Report
 [View the Full Technical Report (PDF)](./assets/NLP.pdf)
 
 ## Project Overview
@@ -25,7 +25,7 @@ A heuristic, ML style approach to path discovery.
 * **Methodology:** A swarm of 60+ particles explores lateral offsets across 20+ track sectors.
 * **Stochastic Search:** Finds global minima in non-convex cost landscapes where gradient-based solvers might struggle.
 * **Visualization:** Shows the real-time learning process as the swarm converges on the optimal apex.
-![PSO Convergence Animation](./assets/pso_opt.mp4)
+<video src="./assets/pso_optimization_demo.mp4" width="100%" controls autoplay loop muted></video>
 ## 🛠️ Installation & Usage
 1. Clone the repo:
    ```bash
