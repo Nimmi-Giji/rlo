@@ -26,7 +26,7 @@ A heuristic, ML style approach to path discovery.
 * **Stochastic Search:** Finds global minima in non-convex cost landscapes where gradient-based solvers might struggle.
 * **Visualization:** Shows the real-time learning process as the swarm converges on the optimal apex.
 ![PSO Convergence Animation](./assets/pso_opt.gif)
-## 🛠️ Installation & Usage
+## Installation & Usage
 1. Clone the repo:
    ```bash
    git clone [https://github.com/Nimmi-Giji/rlo.git](https://github.com/Nimmi-Giji/rlo.git)
